@@ -9,6 +9,7 @@ This script allows you to skip the current track playing on Spotify using a DBus
 - **Bash**
 - **Spotify**
 - **DBus**
+- **playerctl**
 
 ## Installation
 
