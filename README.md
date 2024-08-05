@@ -1,7 +1,6 @@
 
 
-# Spotify Track Skipper
-
+# Spotify Track Bash Scripts
 This script allows you to skip the current track playing on Spotify using a DBus command. It also logs the operations to a specified log file.
 
 ## Requirements
