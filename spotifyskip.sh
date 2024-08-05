@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOGFILE="/home/computer/spotifyskip.log"
+LOGFILE="/home/computer/Documents/log_files/spotifyskip.log"
 
 # Redirect output and errors to logfile
 exec > "$LOGFILE" 2>&1
