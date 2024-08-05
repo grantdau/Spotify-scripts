@@ -30,7 +30,7 @@ This script allows you to skip the current track playing on Spotify using a DBus
 
 ## Script Details
 
-- **Log File**: The script logs its operations to `/home/yourusername/spotifyskip.log`. You can change this path by modifying the `LOGFILE` variable in the script.
+- **Log File**: The script logs its operations to `/home/yourusername/Documents/log_files/spotifyskip.log`. You can change this path by modifying the `LOGFILE` variable in the script.
 
 - **Logging**: The script redirects all output and errors to the specified log file.
 
@@ -40,7 +40,7 @@ This script allows you to skip the current track playing on Spotify using a DBus
 
 ## Example Log Output
 
-Below is an example of what the log file (`/home/yourusername/spotifyskip.log`) might contain after running the script:
+Below is an example of what the log file (`/home/yourusername/Documents/log_files/spotifyskip.log`) might contain after running the script:
 
 ```
 Running skip_track function
